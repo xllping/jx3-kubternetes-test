@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: 213.k8s.local
+    domain: localdev.me
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
